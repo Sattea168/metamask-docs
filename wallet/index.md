@@ -1,4 +1,4 @@
----
+https://developer.metamask.io/register
 slug: /
 title: Wallet API introduction
 description: Introduction page for the Wallet API documentation.
